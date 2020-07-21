@@ -1,6 +1,6 @@
 ## syumai
 
-![syumai](https://syum.ai/image/random?type=svg#)
+![syumai](https://syum.ai/image/random?type=svg##)
 
 ### Profile
 
@@ -9,3 +9,4 @@
 - Location: Tokyo, Japan
 - Twitter: [@\_\_syumai](https://twitter.com/__syumai)
 - Skills: Go, JavaScript, TypeScript, Ruby
+- Works: https://syum.ai
