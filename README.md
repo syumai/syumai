@@ -4,7 +4,6 @@
 
 ### Profile
 
-- Name: syumai
 - Job: Web application developer
 - Skills: Go, JavaScript, TypeScript, Ruby
 - Works: https://syum.ai
