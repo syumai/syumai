@@ -1,6 +1,6 @@
 ## syumai
 
-![syumai](https://syum.ai/image/random?type=svg##)
+![syumai](https://syum.ai/image/random?type=svg)
 
 ### Profile
 
