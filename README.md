@@ -1,6 +1,8 @@
 ## syumai
 
-![syumai](https://syum.ai/image/random?type=svg)
+![syumai](https://syum-ai.syumai.workers.dev/image/random?type=svg)
+
+<!-- This URL is broken because of DNS issue: ![syumai](https://syum.ai/image/random?type=svg) -->
 
 ### Profile
 
